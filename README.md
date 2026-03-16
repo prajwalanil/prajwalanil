@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! I'm Prajwal A. Welcome to my GitHub👋
 
 <!--
 **prajwalanil/prajwalanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
